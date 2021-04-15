@@ -2,7 +2,7 @@
 
 This page is a work in Progress, but plese feel free to explore at some of the neat projects that I have done:
 
-- [Using Social Media Sentiment to Predict Stock Price Movements](https://github.com/muskanuprety/Investment-using-sentiment)
+- [Using Social Media Sentiment to Predict Stock Price Movements](https://github.com/muskanuprety/Investment-using-sentiment/tree/gh-pages)
 - [AI Software Plays Two Player Breakthrough Game](https://github.com/muskanuprety/breakthrough-game)
 - [AI Software Plays Mouse Maze to Capture One or More Cheese](https://github.com/muskanuprety/AI_mouse_maze)
 - [Hospital Database Management System](https://github.com/AliShahram/Hospital-Management-System)
